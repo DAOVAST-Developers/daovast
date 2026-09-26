@@ -16,7 +16,7 @@ export default function Page() {
       </nav>
 
       <section id="top" className="hero-section" aria-labelledby="hero-title">
-        <p className="eyebrow">AI ENGINEER / FRONTEND ENGINEER</p>
+        <p className="eyebrow">SACHIN / AI ENGINEER / FRONTEND ENGINEER</p>
         <h1 id="hero-title">Your Dream Website is Just a click away !</h1>
         <p className="hero-copy">
           I design and build polished AI-native products, creative developer experiences, and premium websites that feel fast, personal, and alive from the first second.
