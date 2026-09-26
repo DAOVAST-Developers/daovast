@@ -2,7 +2,7 @@
 @import 'tw-animate-css';
 @import 'shadcn/tailwind.css';
 
-:root { color-scheme: dark; --ink: #f0efe9; --muted: #92928d; --line: #292a29; --accent: #c9ff66; --bg: #0b0c0c; }
+:root { color-scheme: dark; --ink: #eeeeec; --muted: #9a9da0; --line: #343638; --accent: #aeb2b5; --bg: #17191b; }
 * { box-sizing: border-box; }
 html { scroll-behavior: smooth; }
 body { margin: 0; background: var(--bg); color: var(--ink); font-family: Arial, Helvetica, sans-serif; }
